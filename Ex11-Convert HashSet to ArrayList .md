@@ -4,9 +4,13 @@
 To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
 ## Algorithm
 1.Start and create an empty HashSet.
+
 2.Insert all the required integers into the HashSet.
+
 3.Create an ArrayList and pass the HashSet to its constructor.
+
 4.Store all elements of the HashSet into the ArrayList.
+
 5.Display the elements of the ArrayList.   
 
 ## Program:
